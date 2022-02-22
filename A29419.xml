@@ -1,0 +1,310 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Brief and plain discourse upon the decrees of God wherein Mr. Grantham's query is considered and answered with some short reflections upon a few expressions in his book &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29419</idno>
+            <idno type="STC">Wing B4530</idno>
+            <idno type="STC">ESTC R35786</idno>
+            <idno type="EEBO-CITATION">15561267</idno>
+            <idno type="OCLC">ocm 15561267</idno>
+            <idno type="VID">103750</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29419)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103750)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1586:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Brief and plain discourse upon the decrees of God wherein Mr. Grantham's query is considered and answered with some short reflections upon a few expressions in his book &amp;c.</title>
+               </titleStmt>
+               <extent>[2], 11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.S. for Edw. Giles bookseller in Norwich ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through with loss of print.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Grantham, Thomas, 1634-1692. --  Dialogue between the Baptist and the Presbyterian.</term>
+               <term>Providence and government of God.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103750:1" rendition="simple:additions"/>
+            <p>A <hi>BRIEF</hi> and <hi>PLAIN</hi> DISCOURSE UPON THE <hi>Decrees of God.</hi> WHEREIN Mr. <hi>Grantham</hi>'s Query IS Conſidered and Anſwered.</p>
+            <p>WITH Some ſhort Reflections upon a few Expreſſions in his Book, <hi>&amp;c.</hi>
+            </p>
+            <q>
+               <bibl>Job 6.25.</bibl>
+               <p>How forcible are right words? But what doth your ar<g ref="char:EOLhyphen"/>guing reprove?</p>
+            </q>
+            <q>
+               <bibl>Zeph. 2.1, 2.</bibl>
+               <p>Gather your ſelves together, <hi>&amp;c.</hi> Before the Decree Bring forth, <hi>&amp;c.</hi>
+               </p>
+            </q>
+            <q>
+               <p>Decretum Dei eſt Definitiva ejus Sententia, de Rebus Omni<g ref="char:EOLhyphen"/>bus per Omnipotentiam &amp; Secundum Conſilium ſuum efficiendi.</p> 
+               <bibl>Ames Medulla Theol.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. S.</hi> for <hi>Edw. Giles</hi> Bookſeller in <hi>Norwich,</hi> near the Market Place. 1692.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:103750:2"/>
+            <pb n="1" facs="tcp:103750:2"/>
+            <head>AN ANSWER TO Mr. <hi>Grantham</hi>'s Queſtion, Which he was pleaſed to propound to all Ri<g ref="char:EOLhyphen"/>gid <hi>Calviniſts,</hi> as he calls them, <hi>viz.</hi> Queſt. <hi>Whether our Gracious God did from all Eternity, freely and unchangeably Decree, that Mr.</hi> Toathby <hi>and Mr.</hi> Willet, <hi>ſhould come to the City of</hi> Norwich, <hi>and ſlander me and others, by ſuch horrid Lies and Forgeries.</hi>
+            </head>
+            <opener>
+               <salute>Mr. <hi>Grantham,</hi>
+               </salute>
+            </opener>
+            <p>I was much concerned when I ſaw your Book, in which you propound a Queſtion, to all the Rigid <hi>Calviniſts</hi> (as you are pleaſed to call us, in <hi>Norwich</hi> and elſewhere) and being much troubled at it, thought it my duty to make ſome an<g ref="char:EOLhyphen"/>ſwer to it (as I am able, through the help and aſſiſtance of Gods Grace) and accordingly have ſo done in this Paper.</p>
+            <p>I do much wonder, that ſuch a wiſe man (as you pretend to be) ſhould propound ſuch a queſtion as this is, in which you ſpeak ſlightly of God and his Decrees. Had you that ſence and reverence of God, and of the greatneſs of his Majeſty and Soveraignty, (who may do what he will with us his Creatures)
+<pb n="2" facs="tcp:103750:3"/>I ſay had you this upon your Heart, (which I fear you have not) you would not Quarrel with God, and ſpeak ſo ſlightly of his Decrees as you do. The Lord humble you, and give you repentance for it: and alſo Wiſdom to do ſo no more.</p>
+            <p>There are three things that I would offer to conſideration about the Decrees of God. <hi>Viz.</hi>
+            </p>
+            <list>
+               <item>1. What the Decree of God is, which you ſpeak ſo ſlight<g ref="char:EOLhyphen"/>ly of.</item>
+               <item>2. What are the Properties of Gods Decrees. And</item>
+               <item>3. Speak ſomething of the Execution of it.</item>
+            </list>
+            <p>For the firſt, <hi>What are the Decrees of God?</hi>
+            </p>
+            <p>Anſw. 1. The Word Decree, is a Speech that is taken from the affairs of men, but eſpecially, of ſuch men as are in Autho<g ref="char:EOLhyphen"/>rity; in their determinations of Cauſes between ſuch as are at variance: whoſe Sentence accordingly is called a Decree.</p>
+            <p n="2">2. For God to Decree, is Eternally to purpoſe; fore-ordain, determine, and appoint what things ſhall be, and come to paſs, <hi>&amp;c.</hi> Now the manner of Gods decreeing all things<g ref="char:punc">▪</g> Is ac<g ref="char:EOLhyphen"/>cording to the Counſel of his own Will: And being accord<g ref="char:EOLhyphen"/>ing to his Will, it is moſt freely, and according, to his Coun<g ref="char:EOLhyphen"/>ſel therefore moſt Wiſely: So that God has Freely and Wife<g ref="char:EOLhyphen"/>ly decreed all things that come to paſs; and let us but think of this, that what God doth he doth well and wiſely, after the Counſel of his own Will, as the Apoſtle, ſpeak, <hi>Eph.</hi> 1.11, 12. then we ſhall be ſilent and not quarrel ſo with God, (about his decreeing all things before time, that come to paſs in time) as we are apt to do, and let us well remember this. Wherefore God hath Decreed all things that come to paſs, <hi>viz.</hi> for his own Praiſe and Glory, as appears, <hi>Pſal.</hi> 33.11, 12. <hi>Rom.</hi> 9.22, 23. and <hi>Eph.</hi> 1.4, and 11. &amp;c.</p>
+            <p n="3">3. So then the Decrees of God are defined to be the Wiſe; Free, and Holy Acts of the Counſel of Gods Will, who work<g ref="char:EOLhyphen"/>eth all things after the Counſel of his Holy Will, which is the Rule of Perfection <hi>Eph.</hi> 1.11. <hi>Rom.</hi> 11.33. whereby for his own Glory, God hath unchangeably determined whatſoever<g ref="char:punc">▪</g>
+               <pb n="3" facs="tcp:103750:3"/>comes to paſs, especially concerning his reaſonable Creatures <hi>viz.</hi> Angels and Men, Mr. <hi>Leigh</hi> in his Body of Divinity, ſays That the Decree of God is that whereby the Lord, according to the Counſel of his own Will, hath determined with him<g ref="char:EOLhyphen"/>ſelf what he will do, command, forbid, permit or hinder, to<g ref="char:EOLhyphen"/>gether with the Circumſtances of the ſame, <hi>Act.</hi> 2.23. and 4.28. <hi>Luk.</hi> 22.22. <hi>It is,</hi> ſays he, <hi>an Eternal determining of all things which have been, or ſhall be: So as himſelf ſaw fitteſt to have them, for Good Reaſons beſt known to himſelf, tho not to us. Therefore let us not Quarrel with God about his doings, and determining all things,</hi> &amp;c. Seeing he doth all he doth moſt wiſely, and for good reaſons known to himſelf: Let us be ſilent, ſeeing his ways are in the Deep, and beyond our ſhallow Capacity, and ſay as <hi>Paul</hi> in <hi>Rom.</hi> 11.33. <hi>Oh! the Depth,</hi> &amp;c. Thus much may ſuffice for the firſt thing. We ſhall now come to the ſecond.</p>
+            <p n="2">2. To ſhew what are the Properties of Gods Decrees: and this (through Gods help) I ſhall do in theſe following particu<g ref="char:EOLhyphen"/>lars. Pray mind them well.</p>
+            <p>Firſt, The Decree of God is Compleat, <hi>i. e.</hi> that it doth comprehend the determining of all things, from all Eternity, that do or ſhall come to paſs, which might be evidenced from many Arguments grounded upon the Word of God, which we muſt give Credit to, unleſs we do believe the Scripture only to be the Invention of men, and not indeed the Pure and Holy Word of God, as in truth it is. The Arguments are theſe, <hi>viz.</hi> I'le Juſt name them.</p>
+            <p>
+               <hi>Arg.</hi> 1. Conſider it well, the ſmalleſt and moſt Caſual things, Decreed by God: As the lighting of a Sparrow upon the Ground, and the falling of a Hair from our Heads. This I ſay, is not without the fore-appointment of the Wiſe and Ho<g ref="char:EOLhyphen"/>ly God, as you may ſee plainly in the Words of Chriſt, <hi>Mat.</hi> 10 28, 29, 30, 31. Read and Mind this place well, and you'l find it True. <hi>The very Drops that fall from Heaven, and the Graſs that grows upon the Earth, is from the Appointment of God from Eternity.</hi> See and conſider well theſe Scriptures: And the Lord give you to underſtand them aright, and all of us, which is his gift, <hi>Prov.</hi> 16.32, 33. <hi>Jer.</hi> 14.22. <hi>Jonah</hi> 1.6, <hi>Matt</hi> 6.28, 29. The Words of Chriſt, <hi>&amp;c.</hi>
+            </p>
+            <pb n="4" facs="tcp:103750:4"/>
+            <p>
+               <hi>Arg.</hi> 2. Seeing none of theſe things doth come to paſs with<g ref="char:EOLhyphen"/>out the Appointment of God, what do you think, Mr. <hi>Gran<g ref="char:EOLhyphen"/>tham,</hi> concerning the Angels? Don't you believe that ſome of them fell, and the reſt ſtood, according as God did ordain and appoint, as to be ſure they did. 1 <hi>Tim.</hi> 5.21, 22. and I ſuppoſe you believe it, for you in your Book ſpeak of Elect Angels; and pray Anſwer me this, Why may not God as well Chuſe and Elect ſome men, to Eternal Life and let others alone to go on in ſin and periſh? as to Chufe and Elect ſome Angels, and paſs the other by, ſeeing they are all the Workmanſhip of his hands? <hi>&amp;c.</hi> And he may diſpoſe of them, and do with them as he pleaſes, <hi>Rom.</hi> 9.20, 21, 22, 23, 24. But,</p>
+            <p>
+               <hi>Arg.</hi> 3. All things concerning men, as to their Temporal, Spiritual, and Eternal Eſtate, are Decreed by God, and there is nothing can be found that Gods Decree doth not reach, which argues, that God hath decreed all things whatſoever; ſee and read theſe following Scriptures, for the proof of this third Argument, <hi>viz. Matt.</hi> 22, from the 10, to the 16. and the 20.15, 16. <hi>Act.</hi> 13.48. <hi>Job</hi> 14.5. <hi>Act.</hi> 17.26. <hi>Pſal.</hi> 139.15, 16. 1. <hi>Theſ.</hi> 3.3, 4. and 5.9. all which places ſhew that all things concerning men, as to their Temporal, Spiritual, and Eternal Eſtate are Determined and Decreed by God, <hi>Heb.</hi> 9.29. But to proceed.</p>
+            <p>Secondly, God's Decree is moſt wiſe, and therefore it is cal<g ref="char:EOLhyphen"/>led the Counſel of his Will, and that becauſe his Will doth determine all things according to that Counſel, ſee <hi>Eph.</hi> 1.11, 12. 1 <hi>Tim.</hi> 1.17. <hi>Rom.</hi> 11.33. In decretis ſapientum nulla litura.</p>
+            <p>Thirdly, It is moſt Juſt, for God is Juſt and Righteous in all he doth, and there is no unrighteouſneſs in God at all. <hi>Rom.</hi> 9.13, 14, 15, 16. Shall not the Judge of all the Earth do right? Yes ſurely, for he can do no otherwiſe, <hi>Geneſis</hi> 18.25.</p>
+            <p>Fourthly, Free, becauſe nothing moved the Decrees of God without or beyond himſelf, his Grace and Mercy ſaith Chriſt, <hi>Matt.</hi> 11.26. <hi>Even ſo, oh Father! For it ſeemeth Good in thy fight,</hi> or it pleaſeth thee.</p>
+            <p>Fifthly, It is certain, firm, and unchangeable, as appears,
+<pb n="5" facs="tcp:103750:4"/>
+               <hi>Matt.</hi> 18.14. <hi>Jo.</hi> 23.13. <hi>Pſal.</hi> 33.10, 11, 12. 2 <hi>Tim.</hi> 19.6. <hi>Heb.</hi> 17. not but that men ought to repent, mortifie ſin, be<g ref="char:EOLhyphen"/>lieve, and be holy, for he who hath appointed to the end, <hi>viz.</hi> Eternal Life, hath alſo appointed to the means, which tend to the end, <hi>viz.</hi> Hearing and Reading the Word, Praying, Repenting, and Believing in Chriſt, and the like, <hi>Eph.</hi> 1.4. 2 <hi>Theſ.</hi> 2.12, 13.</p>
+            <p>Sixthly, Gods Decree is Eternal, or elſe he would be changeable, contrary to that of <hi>Mal.</hi> 3.6, 7. <hi>Jam.</hi> 1.17. That it is Eternal (I mean Gods Decree) ſee and read, <hi>Act.</hi> 1.15. 18. <hi>Eph.</hi> 1.4. 2 <hi>Tim.</hi> 1.9, 10. <hi>Zech.</hi> 6.1, 2. Mountains of Braſs, <hi>i. e.</hi> Stable and Eternal Decrees, <hi>&amp;c.</hi> So much for the Properties of Gods Decrees.</p>
+            <p n="3">3. I ſhall now ſpeak a word or two in the third place, to the Execution of Gods Decrees: and ſo ſhall anſwer directly to your Queſtion that you propounded. as the Lord by his Spirit ſhall help and aſſiſt me.</p>
+            <p>Now as to the Execution of Gods<note n="*" place="margin">Note that Gods Decrees, what he would do, in the diſpo<g ref="char:EOLhyphen"/>ſing of things for his own Glory, were from all Eternity; But the Execution of them are in time.</note> Decree, it is twofold, as firſt, more General, ſecondly, more Special.</p>
+            <p>It is more Common or General <hi>viz.</hi> In his works of Crea<g ref="char:EOLhyphen"/>tion and Providence, for as Gods Decree is General, which concerns all his Creatures, ſo the Execution of it is the ſame, as I might largely ſhew, ſo that nothing comes to paſs una<g ref="char:EOLhyphen"/>wares, but what was ordered by the Eternal Decree, <hi>&amp;c.</hi> and this Execution of Gods Decree, is an action of God ef<g ref="char:EOLhyphen"/>fectually working all things in their time, according to his Decree, <hi>Act.</hi> 4. <hi>Act.</hi> 28. and the parts of it, as I ſaid before, are Creation and Providence, ſee <hi>Pſal.</hi> 33.6, to the 11. <hi>Jer.</hi> 10.11, 12. <hi>Pſal.</hi> 146.6, 7, 8, 9.</p>
+            <p n="2">2. It is more Special, which belongs to the reaſonable Creatures, <hi>viz.</hi> Angels and Men, and ſo the Execution is in Angels and Men, which I might have ſhewn largely, had I handled the Special Decree of Election and Reprobation, which I deſign not now to meddle with, only ſet down a few Scriptures to prove that there is an Election and Reprobation.
+<pb n="6" facs="tcp:103750:5"/>That there is an Election, ſee theſe places, <hi>viz. Matt.</hi> 20.15, 16. <hi>John</hi> 15.16. and 10.16. <hi>Act.</hi> 18.10. and 13.44. <hi>Eph.</hi> 4.5. <hi>Rom.</hi> 2.30. and 11.5, 6. 1 <hi>Pet.</hi> 1.1, 2. <hi>Eph.</hi> 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 4, 5, 6. 2 <hi>Tim.</hi> 1.9. <hi>Rom.</hi> 9.16, 18. <hi>Titus</hi> 3.5. and Reprobation, ſee alſo <hi>Matt.</hi> 13.11. <hi>Rom.</hi> 9.22, 23. <hi>Matt.</hi> 11.25, 26. <hi>Luke</hi> 8.10, 11. <hi>Prov.</hi> 16, 4, 5. 1 <hi>Pet.</hi> 2.8, 9, 10. <hi>John.</hi> 10.26. <hi>Jude</hi> 4. Now in as much as theſe Scriptures do plainly prove an Electi<g ref="char:EOLhyphen"/>on and Reprobation, we ought to believe it, and to ſet to it our Seal: that it is true, becauſe the Scripture ſays it. And the Lord of his Mercy grant that we may believe his Word, which is Pure and Holy, and an unerring rule for us to walk by, <hi>Gal.</hi> 6.16. Thus I have run over the three things that I propounded for to do.</p>
+            <p>I ſhall now ſay ſomething (through the Lords help) to your Queſtion, which is this, <hi>viz.</hi>
+            </p>
+            <p>Queſt. <hi>Whether our Gracious God did from all Eternity, freely and unchangeably Decree, that Mr.</hi> Toathby <hi>and Mr.</hi> Willet <hi>ſhould cone to the, City of</hi> Norwich, <hi>and ſlander me and other's by ſuch horrid Lies and Forgeries?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> 1. That God hath freely and unchangeably decreed all things that have, do, or ſhall come to paſs, has already been proved: and deny it if you can: If you do, you muſt deny the Scriptures to be true, and ſo not to be the Word of God, who is Truth it ſelf, and cannot Lye, therefore his Word muſt be true, and ſo not to be contradicted nor objected againſt by you, Mr. <hi>Grantham.</hi>
+            </p>
+            <p>Object. <hi>But may be you will ſay that hereby we do make God to be the Author of all the ſins of Men and Devils, (as you have alrea<g ref="char:EOLhyphen"/>dy Branded us in Print) becauſe we ſay as the Scriptures affirm, that God has unchangeably decreed before time, what does or ſhall come to paſs in time,</hi> &amp;c.</p>
+            <p>
+               <hi>Anſw.</hi> For the Anſwer to this Objection or Cavil, I have ſet down before you here, what the reverend Biſhop <hi>
+                  <g ref="char:V">Ʋ</g>ſher</hi> in his Body of Divinity, <hi>pag.</hi> 93. ſaith, in anſwer to the ſame thing that is here objected by you and others of your Judg<g ref="char:EOLhyphen"/>ment, pray mind it well and judge rightly, for he ſpake ſolidly, his words are theſe, <hi>viz.</hi> God (ſays he) is not the cauſe of ſin and evil, which he forbiddeth and condemneth, but Satan
+<pb n="7" facs="tcp:103750:5"/>and Men, yet God in his ſecret will hath juſtly Decreed the evil works of the wicked (for if it had not pleaſed him they had never been at all) for moſt holy ends, both for his Glory and their puniſhment, as may be ſeen in the Jews Crucifying of Chriſt, <hi>Act.</hi> 2.23. and <hi>Joſeph</hi>'s ſelling into <hi>Egypt, Gen.</hi> 45.7. and the <hi>50.20</hi> for the thing that in its ſelf, by reaſon of Gods prohibiting of it, is ſin; in reſpect of Gods decreeing of it for a Holy end, comes in the place of a good thing, as be<g ref="char:EOLhyphen"/>ing ſome occaſion or way to manifeſt the Glory of God in his Juſtice and Mercy, for there is nothing ſin as God decreeth it, or commandeth it, neither is there any thing of it ſelf abso<g ref="char:EOLhyphen"/>lutely evil, 1 <hi>Pet.</hi> 3.17. but becauſe God hath forbidden it: therefore is it evil, and only unto them unto whom God hath forbidden it: as <hi>Abraham</hi> killing of <hi>Iſaac,</hi> being commanded of God was to be obeyed, and ſin it were to have diſobeyed it, which otherwiſe by Gods Commandment, forbidding to Kill was a ſin, for God forbiddeth not things becauſe they are of themſelves at firſt Evil. but therefore are they to man evil, becauſe God hath forbidden them, for all ſin is a tranſ<g ref="char:EOLhyphen"/>greſſion of the Law: and God doth in Heaven and Earth what<g ref="char:EOLhyphen"/>ſoever pleaſeth him: neither is there any Greater than he to command him.] Thus far Biſhop <hi>
+                  <g ref="char:V">Ʋ</g>ſher.</hi> Now anſwer this if you can; I know you may make A Reply to it in ſome few Cavilling words, being nothing to the purpoſe; I might ſay ſomething more to the anſwering this Objection: But what has been ſaid ſhall ſuffice, as believing it is more than you tru<g ref="char:EOLhyphen"/>ly can anſwer, <hi>&amp;c.</hi>
+            </p>
+            <p>Secondly, As to the other part of your Queſtion, <hi>viz. Whe<g ref="char:EOLhyphen"/>ther God did from Eternity Decree, that Mr.</hi> Toathby <hi>and Mr.</hi> Willet, <hi>ſhould come to</hi> Norwich, <hi>to ſlander and abuſe you and others, as they have done, by thoſe horrid Lies and Forgeries?</hi>
+            </p>
+            <p>I anſwer, 1. That there thus vilifying and reproaching of you, by ſuch Wretched Lies and Forgeries of their inventing, was their great ſin and wickedneſs,<note place="margin">Lev. 6.2, 3. Prov. 12.22. Mat. 12.36, 37. Rev. 22.15, 16.</note> and they will ſee it to be ſo, ſooner or later: I do wiſh they might ſee it in Time, that they may re<g ref="char:EOLhyphen"/>pent of this and other their ſins, before to be too late.</p>
+            <pb n="8" facs="tcp:103750:6"/>
+            <p n="2">2. I ſay that God decreed to permit it, but not as it is a ſin, but a Puniſhment or Correction to you for ſome ſin: tho God decreed ſin, yet we ſay he did not Decree it as ſin, but as a means of the manifeſtation of his Juſtice on the Wicked, and his Grace on the Saints: his Juſtice in puniſhing the one, and his Mercy in Pardoning and ſaving the other, <hi>Act.</hi> 2.23. and 4.28. 1 <hi>Cor.</hi> 10.13, 14. <hi>Eph.</hi> 1.4. and alſo we ſay that God is not the Author of ſin, <hi>Jam.</hi> 1.14, 15. tho he is a wiſe per<g ref="char:EOLhyphen"/>mitter of it, and the Powerful Diſpoſer, and Eternal Aven<g ref="char:EOLhyphen"/>ger of ſin: yet in no ways the Cauſe and Author of it. But the proper and only cauſe of ſin, is the Will of Devils and Men, whereby they fell from God, <hi>&amp;c. Joh.</hi> 8.44. 1 <hi>Joh.</hi> 3.8. <hi>Jude</hi> 4. There is by Gods Decree, no violence offered to the Will of his Creatures, but men go on, as freely and willingly in their ſins, as if there were no Decree of God to give them leave,<note place="margin">Reverend Mr. <hi>Finch.</hi>
+               </note> 
+               <hi>&amp;c.</hi> to be ſure this we may and ought to hold and believe, that God doth no ſin at all, tho he permit it to be done, (or elſe it could not be in the World) and alſo, that he hath a providence about it, but for the manner how it is hard for to find but and determine; you know it is ſaid, 2 <hi>Sam.</hi> 16.10, 11. That God bid <hi>Shimei</hi> to Curſe <hi>David,</hi> we muſt not underſtand, as if God did expreſly Command <hi>Shimei</hi> out of his good Word ſo to do, for this was an improper command: and implies only, that God did make uſe of <hi>Shimei</hi>'s Tongue as a Whip to ſcourge <hi>David</hi> for his ſins, and thus far God did Decree to permit it as a pu<g ref="char:EOLhyphen"/>niſhment or correction to <hi>David</hi> for his Iniquities againſt God. puniſhment you know is counted a Mortal good, in that it is the part of a Juſt Judge to puniſh ſin: and thus ſaith Reverend Biſhop <hi>
+                  <g ref="char:V">Ʋ</g>ſher,</hi> p. 112, and 113.<note place="margin">In his Body of Divinity, <hi>p.</hi> 112, 113.</note> 
+               <q>God Willeth the ſin of the Wicked for their Puniſhment, and this without ſin in himſelf, <hi>Rom.</hi> 2.26.3. and the laſt.</q> And he ſaith farther. That that which is evil, hath ſome reſpect of goodneſs with God, and that,</p>
+            <p n="1">1. As it is a meer Action; God being the Author of every Action, <hi>Act.</hi> 17.28. But the Devil and our Concupiſcence of the Evil in it: and he gives this compariſon, that he which
+<pb n="9" facs="tcp:103750:6"/>Rideth upon a Lame Horſe, cauſeth the Horſe to ſtir, but he is not the Cauſe of his Halting:<note place="margin">See alſo the ſame in Mr. <hi>Perkin</hi>'s Or<g ref="char:EOLhyphen"/>der of Cauſes, chapter the 6. p. the 16.</note> So that tho God hath a Hand in meer Actions: Yet he is in no wiſe the Cauſe of the Evil in any actions: But the Devil and our ſelves are the cauſe of it.</p>
+            <p n="2">2. As it is a Puniſhment of, and for ſin, but this I hinted before: as you may find, if you look a little back.</p>
+            <p n="3">3. As it is Chaſtiſement; a Tryal of Faith, as Martyrdom, or Propitiation for ſin, as the Death and Paſſion of Jeſus Chriſt, <hi>Act.</hi> 2.23. and 4.27, 28. where ſaith he,<note place="margin">Acts 4.24.</note> although the giving of Chriſt to the death of the Croſs, be attributed in the ſame words to God and Chriſt, to <hi>Judas, Pilate,</hi> and the Jews, yet diverſly and in ſeveral reſ<g ref="char:EOLhyphen"/>pects, they are declared to meet in one and the ſame action, whereby there appeareth no leſs difference between God and Chriſts purpoſe, and theirs, than between Light and Dark<g ref="char:EOLhyphen"/>neſs, and he farther declares, how God hath a hand in the things before named, and yet be free from ſin, but let this ſuffice that hath been already named; I ſhall need ſay no more to your Queſtion, only this, (which I hinted before) that as this is a Puniſhment or Correction, God did Will, or De<g ref="char:EOLhyphen"/>cree, to permit it, that it might be as a Whip to ſcourge you with for your ſins: and I hope you look upon it as ſuch: it's a mercy to be kept from the ſtrife of Tongues, and it is the Promiſe of God (if we hearken and be obedient to him) to keep and hide us from it, ſee it in <hi>Job</hi> 5.21, 22. now what<g ref="char:EOLhyphen"/>ever afflictions we meet withal, and undergo, if it be not as an evil doer, but for well doing then happy are we, 1 <hi>Pet.</hi> 3.19, 20, 21. and the 4. from 13. to the end, and ſaith Chriſt, <hi>Matt.</hi> 5.10, 11. <hi>Rejoice and be exceeding glad,</hi> Why? <hi>for great is your reward in Heaven,</hi> &amp;c. Now the Lord of his Mercy grant, that whatsoever we ſuffer in this World from the wick<g ref="char:EOLhyphen"/>ed, we may ſuffer it for Chriſts and the Goſpels ſake. And thus I have done with your Queſtion:<note place="margin">Matt. 5.10, 11.</note> The Lord grant that you may not Quarrel with the Truth any longer, for you have fought againſt it with fooliſh Notions to long.</p>
+            <pb n="10" facs="tcp:103750:7"/>
+            <p>There are a few expreſſions in your Book, that I ſhall a lit<g ref="char:EOLhyphen"/>tle take notice of, and ſo conclude this diſcourſe with a ſhort word of Caution to the Reader.</p>
+            <p>Firſt, Your ſilly or rather wicked expreſſions, are theſe, <hi>viz</hi> You call us Rigid <hi>Calviniſts</hi> who oppoſe thoſe that Preach Gods Love to Mankind.</p>
+            <p>They are Rigid indeed, that ſet themſelves to oppoſe the Truth as it is in Jeſus, but I hope we are ſo far from oppoſing thoſe that Preach Gods Love to Mankind, as that we rejoice in it, and deſire to do it our ſelves, tho may be, not as you would have us, <hi>viz.</hi> that God hath the ſame Love to all Mankind as he hath for ſome of them, if he hath, Why are not all Saved? Surely, that love that ſaves ſome may ſave all, if it be alike to all; but (oh! Mr. <hi>Grantham</hi>) let You and I leave God to do what he will with his Creatures that he has made: And let us Preach the Word to all, as we deſire to do, and muſt do, becauſe we do not know who they be that God will ſave, and who they are that God will glorifie his Juſtice in their Damnation: We muſt call all to come, but God may give Pardon, Grace, and Glory to whom he will: Shall not God do what he will with his own? Yes ſurely. Are not you rather, Rigid? (Mr. <hi>Grantham</hi>) That tell the People God hath the ſame Love to all as to ſome, and alſo that Chriſt Died for all and every Individual Man and Woman in the World? And yet declares that the greateſt part of the World (tho Chriſt died for them) ſhall periſh? Oh! horrible and wicked, that you ſhould ſpeak thus of Chriſt, and undervalue his Death and Merits at ſuch a rate: Repent of this your wick<g ref="char:EOLhyphen"/>edneſs, and pray God to forgive you: And utterly explode ſuch a baſe opinion, for what comfort can there be, in this your General Notion: That Chriſt died for all, and yet moſt of theſe may periſh and be damn'd: I ſay abhor this opinion, and pray God to give you a Heart to believe, that all that Chriſt died for in truth, Intentionally for to ſave, ſhall all of them be ſaved, <hi>John</hi> 6.37, 38, 39. and 10.16.</p>
+            <p>Secondly, You bid us explode and abhor that wretched Ar<g ref="char:EOLhyphen"/>ticle of the Aſſembly of Divines, where they ſay that God did from all Eternity, freely and unchangeably Decree, what<g ref="char:EOLhyphen"/>ſoever comes to paſs.</p>
+            <pb n="11" facs="tcp:103750:7"/>
+            <p n="1">1. Were you any thing of a ſound man, and did underſtand Gods Word aright, you would not object againſt this Article, that is ſo plainly proved in the Scripture. But oh! how Ig<g ref="char:EOLhyphen"/>norant are you, or make your ſelf ſo, of Gods holy Word?</p>
+            <p n="2">2. Don't, you think (If you don't you may) that you are a wretched man for Quarrelling with the Truth? Oh! tremble before the Lord for Quarrelling with his pure unerring word: and do ſo no more, but ſubmit to the Truth, and receive it in the Love of it: And maintain Errors no longer: The Lord grant, you may do ſo: And become a Lover of the Truth in ſincerity.</p>
+            <p>I ſhall now conclude all with a ſhort word of caution to the Chriſtian Reader.</p>
+            <p>I do heartily in the name of the Lord admoniſh thee to have a care of Errors, and of all thoſe that do hold and maintain them. Take the Apoſtles advice, 1 <hi>John</hi> 1.1, 2. <hi>Not to be<g ref="char:EOLhyphen"/>lieve every Spirit, but try every Spirit, whether they be of God or no,</hi> and the way to do this is, by the Holy Word of God, with Care and Diligence, <hi>John</hi> 5.39. <hi>Acts</hi> 17.11. 1 <hi>Theſ.</hi> 5.21, 22. and <hi>Rev.</hi> 2.2, 3.</p>
+            <p>Now the good Lord teach you, and guide you in the way of Holineſs, which ſhall be my Prayer to God for you whilſt I Live. The Lord give you underſtanding in all things.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="part">
+            <pb facs="tcp:103750:8"/>
+            <p>Words Preached by <hi>Thomas Grantham</hi> in his Meeting-Place, in the City of <hi>Norwich,</hi> and atteſted by <hi>John Pitcher,</hi> of the ſaid City; which are as followeth, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>Imprimis,</hi> That every Man fell in <hi>Adam,</hi> this is true, and Chriſt died to Redeem every individual Man and Woman in the World; and if not ſo, we were leſt in a worſe condition than tho Devil, and if all have not benefit by his Death, then they whom he died not for, have as little reaſon to thanks God, as the Beaſt has the Grazier that ſeeds him up to the Slaughter, <hi>&amp;c.</hi>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>THeſe few Lines were thought fit by ſome Perſons of Note, to be publiſhed, which accordingly are: and I do heartily wiſh that Mr. <hi>Grantham</hi> would learn more Wiſdom for time come, and not ſpeak ſo wickedly (I can call it no other) as he hath done, for he ſpeaks quite contrary to the currant of the Holy Scriptures, be they compared one with another, which indeed is the way to under<g ref="char:EOLhyphen"/>ſtand them, <hi>&amp;c.</hi> I am alſo credibly told, that you called the. Do<g ref="char:EOLhyphen"/>ctrine of Election and Reprobation (in your Pulpit) damnable Do<g ref="char:EOLhyphen"/>ctrine, <hi>&amp;c.</hi> and one that heard you, came to your houſe, to tell you of it, being troubled about it, and you denied it? which he then made manifeſt to your Face, and then you ſaid theſe words, <hi>viz.</hi> between You and I, I do ſay it is Damnable Doctrine, <hi>&amp;c.</hi>
+            </p>
+            <p>Oh horrible! that ever you ſhould ſpeak ſuch a word as this is: the Lord help you now to amend (and all of us) what we have done amiſs in any kind, and to do better for time to come: My Prayer ſhall be to God for you, to give you true wiſdom in the My<g ref="char:EOLhyphen"/>ſteries of his Will, contained in his Holy Word.</p>
+            <closer>
+               <salute>Vale.</salute>
+               <signed>
+                  <list>
+                     <item>Teſtes.</item>
+                     <item>Mich. Hosbun.</item>
+                     <item>John Fenn.</item>
+                     <item>Miles Matthews.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="publishers_advertisements">
+            <pb facs="tcp:103750:8"/>
+            <head>A Catalogue of Books, Printed for, and are to be Sold by <hi>Edward Giles,</hi> Bookſeller in <hi>Norwich,</hi> near the <hi>Market-Place.</hi>
+            </head>
+            <list>
+               <item>SEveral Diſcourſes concerning Actual Providence.</item>
+               <item>A word in Seaſon.</item>
+               <item>Defenſive Armour againſt four of <hi>Satans</hi> moſt fiery Darts.</item>
+               <item>Sermons upon the whole firſt and ſecond Chapter of <hi>Canticles.</hi>
+               </item>
+               <item>Thirteen Sermons upon ſeveral uſeful Subjects: All publiſhed by <hi>John Collins</hi> D. D. of <hi>Norwich.</hi>
+               </item>
+               <item>The way of the Spirit in bringing Souls to Chriſt.</item>
+               <item>The Glory of Chriſt ſet forth, with the neceſſity of Faith, in ſe<g ref="char:EOLhyphen"/>veral Sermons: Both by Mr. <hi>Thomas Allen,</hi> late Paſtor of a Church at <hi>Norwich.</hi>
+               </item>
+               <item>
+                  <hi>Enoch</hi>'s Walk with God and Chriſt, a Chriſtians Gain: by Mr, <hi>Timothy Armitage,</hi> late Miniſter at <hi>Norwich.</hi>
+               </item>
+               <item>A Diſcourſe of the preciouſneſs of Chriſt, and of the preciouſneſs of Faith.</item>
+               <item>Precious Promiſes the Portion of Overcomers.</item>
+               <item>Sermons on the five ſeveral uſeful Subjects; all by Mr. <hi>John Lougher,</hi> Miniſter in <hi>Norfolk.</hi>
+               </item>
+               <item>The Saints <hi>Ebenezer,</hi> by Mr. <hi>Francis Engliſh,</hi> late Miniſter in <hi>Norwich.</hi>
+               </item>
+               <item>Directions to ſpell <hi>Engliſh</hi> right.</item>
+               <item>The Hiſtory of the <hi>Proteſtant Reformation,</hi> as it was begun by <hi>Luther.</hi>
+               </item>
+               <item>The Dead Saints ſpeaking; being a Sermon Preached upon the Death of Mr. <hi>Newcomb</hi> of <hi>Deadham</hi> in <hi>Eſſex.</hi> The <hi>Engliſh Presbyterian.</hi>
+               </item>
+               <item>The Miracles of Chriſt.</item>
+               <item>The ordinary matter of Prayer, drawn into Queſtions and Anſwers.</item>
+               <item>Two Treatiſes, the firſt, of Rejoycing in the Lord Jeſus in all Caſes and Conditions: The ſecond of a Chriſtians Hope in Heaven, and Freedom from Condemnation by Chriſt: both by <hi>Robert Aſty,</hi> late Miniſter of Jeſus Chriſt in <hi>Norwich.</hi>
+               </item>
+               <item>Obedience to Magiſtrates, recommended in a Sermon preached
+<pb facs="tcp:103750:9"/>
+                  <hi>September</hi> the 9th 1683. being the thankſgiving Day for his Ma<g ref="char:EOLhyphen"/>jeſties Deliverance: By <hi>Jonathan Clapham,</hi> Rector of <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rampling<g ref="char:EOLhyphen"/>ham</hi> in <hi>Norfolk.</hi>
+               </item>
+               <item>Infant Baptiſm of Chiſt's Appointment: By Mr. <hi>Samuel Peito,</hi> Miniſter of the Goſpel in <hi>Sudbury</hi> in <hi>Suffolk.</hi>
+               </item>
+               <item>Of the Converſion of Sinners to God in Chriſt, the neceſſity, na<g ref="char:EOLhyphen"/>ture, means, and ſigns of it, with a concluding Speech to the Un<g ref="char:EOLhyphen"/>converted: An Anſwer to Mr. <hi>Thomas Grantham</hi>'s Book, called a Dialogue between the Baptiſt and Presbyterian. Both by <hi>Martin Finch,</hi> Paſtor of a Church of Chriſt in <hi>Norwich.</hi>
+               </item>
+               <item>Sincerity, or the Upright Man's Walk to Heaven: Delivered in ſeveral Sermons in the Pariſh-Church of St. <hi>Michael</hi> in <hi>Long-ſtrat<g ref="char:EOLhyphen"/>ten</hi> in <hi>Norfolk,</hi> By <hi>James Oldfield,</hi> late Miniſter there.</item>
+               <item>
+                  <hi>Alexipharmacon Spirituale:</hi> Being a Defenſative againſt the Poi<g ref="char:EOLhyphen"/>ſon and Sting of Death: Or, The Great Expedient how to make the Bed of the Grave ſo eaſie, that we may lie down in Peace, and take our Reſt. By <hi>Samuel Snowden,</hi> Miniſter of the Goſpel at <hi>New<g ref="char:EOLhyphen"/>ton</hi> in <hi>Norfolk.</hi>
+               </item>
+               <item>Chriſt ſet forth: In ſeveral Sermons upon the 17th Chapter to the <hi>Hebrews.</hi> By Mr. <hi>Robert Ottee,</hi> late Paſtor to a Congregation <hi>Beckles</hi> in <hi>Suffolk.</hi>
+               </item>
+               <item>Sacramental Diſcourſes on ſeveral ſelect Subjects. To which is added, A Diſcourſe of the Life of Faith. By <hi>Chriſtopher Amarett,</hi> Miniſter of the Goſpel in <hi>Norfolk.</hi>
+               </item>
+               <item>A Diſcovery of Audacious Inſolence againſt the Doctrine of the Church of <hi>England,</hi> vented in a malicious Pamphlet, publiſhed againſt the Presbyterians, by <hi>Thomas Grantham:</hi> Together with a Poem thereon. And a Poſtſcript, wherein ſome of the Citizens of <hi>Norwich</hi> are more particularly concerned and cautioned.</item>
+               <item>A Practical Diſcourſe upon the 8th of the <hi>Romans</hi> 37. verſe: Wherein it is ſhewn and proved, that true Believers in Chriſt are more than Conquerors, in their ſufferings and afflictions here: And it ſhall appear that they are ſuch indeed at the appearing of Chriſt the Captain of their Salvation.</item>
+            </list>
+         </div>
+         <trailer>FINIS.</trailer>
+      </back>
+   </text>
+</TEI>
